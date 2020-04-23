@@ -1,0 +1,160 @@
+.bigPage{
+    background-color: white; 
+    height: 85%;
+    width: 95% ;
+    margin: 20px;
+    border: 5px solid grey;
+    border-radius: 30px;
+}
+
+.bigBody{
+    background-image: url('./shopping.jpeg');
+}
+.body{
+}
+#title{
+    text-align: center;
+    font-size: 48px;
+}
+
+#header{
+   color: red;
+}
+
+#totalPrices{
+    
+}
+
+#root{
+    margin-left: 10px;
+}
+
+.page{
+    background-color: white; 
+    height: 390px;
+    width: 350px; 
+    margin: auto;
+    margin-top: 60px;
+    border: 1px solid #e6e6e6;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('./shopping.jpeg');
+    background-size: 350px;
+}
+
+#title1{
+    color: rgb(129, 46, 118);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 52px;
+    font-weight: 300;
+    width: 200px;
+    margin: auto;   
+    text-align: center;
+    font-weight: bold;
+    }
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.user {
+    margin: auto;
+    background-color: whitesmoke;
+    height: 35px;
+    width: 265px;
+    border: 0.5px ridge;
+    align-items: center;
+    text-align: center
+}
+.pw {
+    margin: auto;
+    background-color: whitesmoke;
+    height: 35px;
+    width: 265px;
+    border: 0.5px ridge;
+    align-items: center;
+    text-align: center;
+}
+.login{
+ margin: auto;
+ background-color: black;
+ color:white;
+ height: 30px;
+ width: 180px;
+ border: 0.5px ridge;
+ font-size: 16px;
+ align-content: center;
+}
+
+.signup {
+    margin:auto;
+    color:grey;
+    height: 20px;
+    width: 125px;
+    border: 0.5px ridge;
+    font-size: 12px;
+    align-items: center;
+   }
+
+.DisplayBox {
+    padding: 5px;
+    width:95%;
+    height: 30px;
+    font-size: .8em;
+    border: 0.5px ridge;
+    display: flex;
+    justify-content: space-between;
+}
+
+#image{
+    height: 25px;
+    width: 25px;
+    align-items: center;
+}
+
+#textLine{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20%;
+}
+
+#pp{
+    color: #577926; 
+}
+
+#af{
+    color: #77bc1f;
+}
+
+#fd{
+    color:#4fa157; 
+}
+
+#fd1{
+    color:  #e77630;
+}
+
+#p {
+    color: darkcyan;
+}
+
+#i {
+    color: darkgoldenrod;
+}
+#dButton{
+  padding:2px;
+  font-size: 5px;
+}
+
+#pButton{
+    padding:3px;
+    font-size: 5px;
+  }
+
+#sButton{
+    padding:3px;
+    font-size: 5px;
+}
