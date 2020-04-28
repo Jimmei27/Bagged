@@ -4,8 +4,8 @@
 
 # <p align="center">Preview </p>
 <div align="center"; display: flex; justify-content:space-around;>
+  <img src="./Assets/BaggedLogin.png" width="35%" height="40%"/>
   <img src="./Assets/BaggedList.png" width="35%" height="40%"/>
-  <img src="./Assets/BaggedLogin.png.png" width="35%" height="40%"/>
   
 </div>
 
